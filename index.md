@@ -52,5 +52,14 @@
 &#x2003;IEICE Transactions on Information and Systems, 2020, 103(5): 1177-1180.
 <br><br>
 
+
+
+# new job
+<img src="image_source/traditional_object_detection.gif" align="left" width="30%">
+
+&#x2003;[Cost-Sensitive and Sparse Ladder Network for Software Defect Prediction](https://www.jstage.jst.go.jp/article/transinf/E103.D/5/E103.D_2019EDL8198/_pdf)  
+&#x2003;Jing Sun, Yimu Ji, Shandong Liu, Fei Wu.  
+&#x2003;IEICE Transactions on Information and Systems, 2020, 103(5): 1177-1180.
+<br><br>
   
 
