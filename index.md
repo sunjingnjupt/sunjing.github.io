@@ -1,7 +1,7 @@
 <img src="image_source/sunjing_pic.jpg" align="right" width="20%">
 <center> <h1>Jing Sun 孙静</h1> </center>
 
-<p style="margin-right: 200px;margin-left: 30px">tI obtained my PhD degree (2018-2022) in Computer Science and Engineering at HKUST, advised by Prof. Chiew-Lan Tai at Vision and Graphics Group. I also worked closely with Prof. Long Quan and Prof. Hongbo Fu. Prior to HKUST, I received my BSc in Electronic Engenieering from Beijing Normal University.</p>
+<p style="margin-right: 200px;margin-left: 30px">Research on 3D object detection for lidar data in intelligent driving scenarios. Aiming at the problem of poor detection results caused by sparse point clouds and occlusions in intelligent driving scenarios, the feature extraction module and target detection module in the target detection model are targeted to improve the target detection effect. achievement.</p>
 
 <br>
 <br>
