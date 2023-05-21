@@ -1,1 +1,1 @@
-<img src="image_source/sunjing_pic.png" align="right" width="40%">
+<img src="image_source/sunjing_pic.jpg" align="right" width="20%">
