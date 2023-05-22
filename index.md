@@ -1,13 +1,13 @@
 <img src="image_source/sunjing_pic.jpg" align="right" width="20%">
 <center> <h1>Jing Sun 孙静</h1> </center>
 
-<p style="margin-right: 200px;margin-left: 30px">I am pursuing a Ph.D. in Information and Communication Engineering at Nanjing University of Posts and Telecommunications (2019-2022), under the guidance of Academician Guoliang Chen. I am also closely collaborating with Professor Yimu Ji and Professor Fei Wu. Prior to NJUPT, I obtained a Bachelor's degree in Computer Science and Technology from Shandong Normal University.</p>
+<p style="margin-right: 200px;margin-left: 30px">I am pursuing a Ph.D. in Information and Communication Engineering at Nanjing University of Posts and Telecommunications (2019-2023), under the guidance of Academician Guoliang Chen. I am also closely collaborating with Professor Yimu Ji and Professor Fei Wu. Prior to NJUPT, I obtained a Bachelor's degree in Computer Science and Technology from Shandong Normal University.</p>
 
 <br><br><br><br><br><br><br><br>
 
 
 ## Research
-I am interested in 3D computer vision, machine learning and software engineering. Specifically, I did some work on point cloud object detection and tracking in autonomous driving.
+I am interested in 3D computer vision, machine learning and software engineering. Specifically, I did some work on point cloud object detection and tracking in autonomous driving.  
 
 
 <br>
@@ -15,7 +15,7 @@ I am interested in 3D computer vision, machine learning and software engineering
 <img src="image_source/Offset3Net.jpg" align="left" width="20%"> 
 
 &#x2003;[ Offset3net: Simple joint 3D detection and tracking with three-step offset learning(major revision)](https://www.sciencedirect.com/science/article/abs/pii/S0045790621005978)   
-&#x2003; Jing Sun, Yimu Ji, Jing He, Fei Wu, Yanfei Sun.  
+&#x2003; Jing Sun, Yimu Ji, Jing He, Fei Wu, Yanfei Sun.    
 &#x2003; IEEE Transactions on Industrial Informatic.
 <br>
 <br>
@@ -41,8 +41,8 @@ I am interested in 3D computer vision, machine learning and software engineering
 <br>
 
 &#x2003;[Dynamic Vehicle Pose Estimation with Heuristic L-Shape Fitting and Grid-Based Particle Filter](https://www.mdpi.com/2079-9292/12/8/1903)  
-&#x2003;Jing Sun, Yimu Ji, Shangdong Liu.  
-&#x2003;Electronics, 2023, 12(8): 1903.
+&#x2003;  Jing Sun, Yimu Ji, Shangdong Liu.  
+&#x2003;  Electronics, 2023, 12(8): 1903.
 <br><br>
 
 
