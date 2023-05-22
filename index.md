@@ -1,12 +1,14 @@
 <img src="image_source/sunjing_pic.jpg" align="right" width="20%">
 <center> <h1>Jing Sun 孙静</h1> </center>
 
-<p style="margin-right: 200px;margin-left: 30px">Research on 3D object detection for lidar data in intelligent driving scenarios. Aiming at the problem of poor detection results caused by sparse point clouds and occlusions in intelligent driving scenarios, the feature extraction module and target detection module in the target detection model are targeted to improve the target detection effect. achievement.</p>
+<p style="margin-right: 200px;margin-left: 30px">I am pursuing a Ph.D. in Information and Communication Engineering at Nanjing University of Posts and Telecommunications (2019-2022), under the guidance of Academician Guoliang Chen. I am also closely collaborating with Professor Yimu Ji and Professor Fei Wu. Prior to NJUPT, I obtained a Bachelor's degree in Computer Science and Technology from Shandong Normal University.</p>
 
 <br><br><br><br><br><br><br><br>
 
 
 ## Research
+I am interested in 3D computer vision, machine learning and software engineering. Specifically, I did some work on point cloud object detection and tracking in autonomous driving.
+
 
 <br>
 <br>
@@ -54,12 +56,10 @@
 
 
 
-# new job
+# Doing work
 <img src="image_source/traditional_object_detection.gif" align="left" width="30%">
 
-&#x2003;[Cost-Sensitive and Sparse Ladder Network for Software Defect Prediction](https://www.jstage.jst.go.jp/article/transinf/E103.D/5/E103.D_2019EDL8198/_pdf)  
-&#x2003;Jing Sun, Yimu Ji, Shandong Liu, Fei Wu.  
-&#x2003;IEICE Transactions on Information and Systems, 2020, 103(5): 1177-1180.
+&#x2003;General obstacle detection and tracking without GPU and label data.
 <br><br>
   
 
